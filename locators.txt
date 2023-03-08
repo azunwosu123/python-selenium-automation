@@ -1,0 +1,35 @@
+# By Xpath, Email
+driver.find_element(By.XPATH,"//input[@id='ap_email']")
+
+# By Xpath, Amazon (Logo)
+driver.find_element(By.XPATH,"//i[@class="a-icon a-icon-logo']")
+
+# BY Xpath, Continue button
+driver.find_element(By.XPATH,"//input[@id='continue']")
+
+# BY Xpath, Need help
+driver.find_element(By.XPATH,"//input[@class='a-expander-prompt']")
+
+# BY Xpath, Forgot your password link
+driver.find_element(By.XPATH,"//a[@id='auth-fpp-link-bottom']")
+
+# BY Xpath,Other issue with Sign-in
+driver.find_element(By.XPATH,"//input[@id='ap-other-signin-issues-link']")
+
+# BY Xpath, Create your Amazon account button
+driver.find_element(By.XPATH,"//a[@id='createAccountSubmit']")
+
+# BY Xpath, Condition of Use
+driver.find_element(By.XPATH, "//a[@href='/gp/aw/help/ref=ap_mobile_register_notification_condition_of_use?id=508088']")
+
+# BY Xpath, Privacy Notice Link
+driver.find_element(By.XPATH, "//a[@href='//a-link-normal']")
+
+# BY Xpath, Order
+driver.find_element(By.XPATH, "//span[@class='nav-text']
+
+# BY Xpath, sign in header
+driver.find_element(By.XPATH, "//span[@class=nav-action-inner']")
+
+# BY Xpath, email input
+driver.find_element(By.XPATH, "//input[@id='ap_email']")
