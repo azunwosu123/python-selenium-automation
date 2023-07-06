@@ -1,4 +1,4 @@
-# Created by nazua at 7/2/2023
+# HW 4_3
 Feature: Test for Customer Service's page UI
 
   Scenario: Verify UI elements are present
